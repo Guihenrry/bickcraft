@@ -163,7 +163,6 @@ img {
     height: 160px;
     margin-top: 92px;
     padding-top: 30px;
-    background-size: cover;
     text-align: center;
     color: #FFF;
 }
@@ -219,6 +218,10 @@ img {
 .produtos_icone {
 	background: #000;
 	padding: 20px;
+}
+
+.produtos_icone img {
+	margin: 0 auto;
 }
 
 .call {
