@@ -99,6 +99,13 @@
         font-size: 36px;
     }
 
+    /* Portfolio */
+    .portfolio_lista div:last-of-type {
+        clear: both;
+        margin: 0;
+        padding-top: 0;
+    }
+
     /* Qualidade */
     .qualidade::after {
         display: none;
